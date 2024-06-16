@@ -1,0 +1,16 @@
+.optBtn {
+  padding: 10px 20px;
+  font-size: 20px;
+  background-color: #e0e9ff;
+  color: black;
+  border: 0;
+  border-radius: 4px;
+  margin: 5px;
+  transition: background-color 250ms ease, color 250ms ease;
+}
+
+.optBtn:active,
+.optBtn:hover {
+  background-color: #638cf6;
+  color: white;
+}
